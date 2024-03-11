@@ -14,7 +14,7 @@ import Image from "next/image";
 const Sponsor = () => {
   return (
     <section className="bg-[#F9FAFB] mt-10 w-full">
-      <div className="container py-10">
+      <div className="py-10">
         <h1 className="text-center font-bold md:text-5xl text-xl">
           Our Sponsor
         </h1>
